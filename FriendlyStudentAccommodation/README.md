@@ -5,4 +5,4 @@
   <pre> The <i>'dist'</i> folder contains a already compiled '.jar' file which is a ready to run executable file of the application </pre>
   
   <h3>Snapshot</h3>
-  ![Student Accomodation](https://github.com/SuvabBaral/JAVA-Applications/blob/master/images/Student-Accommodation.png)
+  ![](https://github.com/SuvabBaral/JAVA-Applications/blob/master/images/Student-Accommodation.png)
